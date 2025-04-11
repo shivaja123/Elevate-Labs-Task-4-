@@ -1,1 +1,1 @@
-# Elevate-Labs-Task-4-
+Task-4 is about creating interactive dashboard with kpi's here i used sales dataset and created a dashboard.Here i used pie charts,tables ect to show sales and profits of the store and also i used kpi's to show quantity,discount,sales of the states.To look dashboard attractive i used different colours. 
